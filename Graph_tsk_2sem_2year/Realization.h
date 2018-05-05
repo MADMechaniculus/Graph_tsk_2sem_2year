@@ -47,4 +47,4 @@ bool createArc(string name,MyVertex selectedVertexFirst, MyVertex selectedVertex
 	selectedVertexSecond.pushNewArc(tempArc);
 }
 //Удаление связи
-bool deleteArc()
+//bool deleteArc()
